@@ -1,0 +1,17 @@
+body{
+    font-family: arial ;
+    font-size: 13px;
+    font-weight: lighter;
+    font-family: arial;
+    margin-bottom: 1000px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 5;
+    margin-left:50%;
+    margin-right: 50%;
+}
+.back_image{
+    padding-left: 10px;
+}
