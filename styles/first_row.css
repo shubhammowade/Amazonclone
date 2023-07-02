@@ -11,12 +11,12 @@
     margin-top: -325px;
     row-gap: 20px;
 }
-@media(min-width:1490px){
+@media(min-width:800px){
     .first_row{
     grid-template-columns: 1fr 1fr 1fr 1fr;
     }
 }
-@media(min-width: 0px) and (max-width: 1490px){
+@media(min-width: 0px) and (max-width: 800px){
     .first_row{
         grid-template-columns: 1fr 1fr 1fr;
     }
